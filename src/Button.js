@@ -1,5 +1,5 @@
 import React from 'react'
-import pdf from "./Assets/Priyank-Updated-resume.pdf";
+import pdf from "./Assets/Israyal_Updated_CV.pdf";
 
 const Button = () => {
   return (

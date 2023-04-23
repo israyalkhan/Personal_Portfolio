@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Priyank Agrawal</h3>
+          <h3>Designed and Developed by Israyal Khan</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           {/* <h3>Copyright © {year} SB</h3> */}
@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Priyank032"
+                href="https://github.com/israyalkhan"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="#"
+                href="https://twitter.com/Israyal74470082"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/priyank-agrawal-3773691a6"
+                href="https://www.linkedin.com/in/israyal-khan-9a2b3a20b/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="#"
+                href="https://instagram.com/israyal_07?igshid=ZDdkNTZiNTM="
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"

@@ -35,7 +35,7 @@ const Contact = () => {
                                 <ImLocation2 className='main_icon' />
                             </div>
                             <div class="text ">
-                                <p><span>Address  :</span> Fort Road, Gwalior, 474003 MP INDIA
+                                <p><span>Address  :</span> Trapti Nagar Morar, Gwalior, 474006 MP INDIA
                                 </p>
                             </div>
                         </div>
@@ -45,7 +45,7 @@ const Contact = () => {
                                 <BsTelephonePlusFill className='main_icon' />
                             </div>
                             <div class="text ">
-                                <p><span>Phone  :</span> +91 6263-6361-97
+                                <p><span>Phone  :</span> +91 7447008212
                                 </p>
                             </div>
                         </div>
@@ -55,8 +55,7 @@ const Contact = () => {
                                 <SiGmail className='main_icon' />
                             </div>
                             <div class="text ">
-                                <p><span>Email  :</span> priyankagrawal76660
-                                    @gmail.com
+                                <p><span>Email  :</span> ffencer525@gmail.com
                                 </p>
                             </div>
                         </div>
@@ -66,7 +65,7 @@ const Contact = () => {
                                 <FaLinkedinIn className='main_icon' />
                             </div>
                             <div class="text ">
-                                <p><span>LinkedIn  :</span> priyank-agrawal-3773691a6
+                                <p><span>LinkedIn  :</span> linkedin.com/in/israyal-khan-9a2b3a20b/
                                 </p>
                             </div>
                         </div>

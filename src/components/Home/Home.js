@@ -8,7 +8,7 @@ import Contact from "../Contact/Contact";
 import Li from "../../Assets/linkedin.png";
 import Li2 from "../../Assets/github.png";
 import { Link } from "react-router-dom";
-import pdf from "../../Assets/Priyank-Updated-resume.pdf";
+import pdf from "../../Assets/Israyal_Updated_CV.pdf";
 import { Link as Link2 } from "react-scroll";
 import { Nav as Nav2 } from "react-bootstrap";
 
@@ -21,7 +21,7 @@ function Home() {
           <div className="row">
             <div className="col-md-7 home-header">
               <h1 style={{ paddingBottom: 15 }} className="heading"> Hello !</h1>
-              <h1 className="heading-name">I'M<strong className="main-name"> Priyank Agrawal</strong></h1>
+              <h1 className="heading-name">I'M<strong className="main-name"> Israyal Khan</strong></h1>
               <div style={{ paddingLeft: 50, paddingRight: 50, textAlign: "left" }}>
                 <Type style={{ color: "#000" }} />
               </div>
@@ -41,10 +41,10 @@ function Home() {
                   </Nav2.Item>
                 </div> */}
               </div>
-              <Link to="https://www.linkedin.com/in/priyank-agrawal-3773691a6">
+              <Link to="https://www.linkedin.com/in/israyal-khan-9a2b3a20b/">
                 <img src={Li} alt="" className="img-fluid" style={{ maxHeight: "45px", margin: "7px 10px 7px 60px" }} />
               </Link>
-              <Link to="https://github.com/Priyank032">
+              <Link to="https://github.com/israyalkhan">
                 <img src={Li2} alt="kokokokokkkok" className="img-fluid" style={{ maxHeight: "45px", margin: "7px 10px" }} />
               </Link>
 

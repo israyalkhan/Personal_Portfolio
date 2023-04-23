@@ -4,6 +4,7 @@ import { BsGithub } from "react-icons/bs";
 
 function ProjectCards(props) {
   return (
+    // eslint-disable-next-line jsx-a11y/anchor-is-valid
     <a href="#" class="card">
       <img src={props.image} class="card__image" alt="" />
       <div class="card__overlay">
